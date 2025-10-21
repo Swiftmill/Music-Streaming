@@ -1,0 +1,13 @@
+{
+  "username": "lyra",
+  "passwordHash": "$2b$10$YhO/7b72Jdq/HQIpSv33ouuQWqU5fdnFhY9Wt9Ow6k4DgN.88cbh6",
+  "role": "user",
+  "displayName": "Lyra Moon",
+  "avatar": "/public/uploads/lyra.png",
+  "badges": [],
+  "verified": false,
+  "quota": {
+    "maxPendingTracks": 5,
+    "maxStorageMb": 512
+  }
+}

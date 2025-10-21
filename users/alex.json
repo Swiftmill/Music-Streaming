@@ -1,0 +1,13 @@
+{
+  "username": "alex",
+  "passwordHash": "$2b$10$7QWuw1v0tR0hB3lJA9N6H.hG9V7H5PHeTtQKgJGdwNwp0UrEGou5G",
+  "role": "user",
+  "displayName": "Alex Nova",
+  "avatar": "/public/uploads/alex.png",
+  "badges": ["verified"],
+  "verified": true,
+  "quota": {
+    "maxPendingTracks": 10,
+    "maxStorageMb": 1024
+  }
+}
