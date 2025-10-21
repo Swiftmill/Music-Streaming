@@ -1,0 +1,13 @@
+{
+  "username": "admin",
+  "passwordHash": "$2b$10$N9qo8uLOickgx2ZMRZoMyeIjZAgzbYWpOJQ5.BS8G3e1eN6i8pHHy",
+  "role": "admin",
+  "displayName": "Administrateur",
+  "avatar": "/public/uploads/admin.png",
+  "badges": ["founder"],
+  "verified": true,
+  "quota": {
+    "maxPendingTracks": 20,
+    "maxStorageMb": 2048
+  }
+}
